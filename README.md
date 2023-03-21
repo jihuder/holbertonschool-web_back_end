@@ -1,0 +1,1 @@
+This is a project Emacs-6git init
